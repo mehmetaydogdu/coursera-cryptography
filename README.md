@@ -2,7 +2,7 @@
 
 Coursera Maryland Cryptography
 
-These are my problem set and programming assignment solutions written in Scala.
+These are my programming assignment solutions written in Scala.
 
 
 ##NOTICE
