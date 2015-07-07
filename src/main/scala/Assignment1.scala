@@ -1,4 +1,7 @@
 
+/**
+ * @author Mehmet Aydogdu
+ */
 object Assignment1 {
   val ENGLISH_LETTER_FREQ = 0.065
   val ENGLISH_LETTER_FREQS = Map(
